@@ -1,0 +1,45 @@
+.myBG{
+    height: 100vh;
+    background: url("../asset/New folder/bg/Anime-Wallpapers.jpg");
+    background-size:cover;
+}
+.intro{
+    height:300px;
+    display:flex;
+    justify-content:end;
+    align-items:end;
+}
+.tittle{
+    font-size: 3rem;
+    font-weight:800;
+    line-height:1;
+    text-shadow:2px 2px black;
+    latter-spacing:4spx;
+}
+.tranding{
+    background: url("../asset/New folder/bg/peakpx (1).jpg");
+    height:auto;
+    background-size:cover;
+    border-top:5px solid lightseagreen;
+
+}
+.movieImage{
+    weight:150px;
+    height:auto;
+    background-color: black;
+    margin:4px;
+    padding:4px;
+}
+.moviewrapper{
+
+}
+.images{
+    height:400px;
+}
+.super{
+    background: url("../asset/New folder/bg/wallpaperflare.com_wallpaper (2).jpg");
+    height:auto;
+    background-size:cover;
+    border-top:5px solid lightseagreen;
+
+}
